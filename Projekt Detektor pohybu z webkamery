@@ -1,0 +1,9 @@
+Nátev
+-  Detektor pohybu z webkamery
+
+Chtěl bych udelat jednoduchu aplikaci, která bude pomocí webkamery sledovat obraz a pozná, ked se neco pohne. Když kamera zachytí pohyb, program to zobrazí a může uložit snímek do složky. Dá se to použít jako taková mini bezpečnostní kamera.
+Cíle projektu:
+- Získávání obrazu z webkamery pomocí knihovny OpenCV.  
+- Detekce pohybu porovnáváním aktuálního snímku s pozadím.
+-  Možnost ukládání snímků při detekci pohybu do nejake složky  
+- Ovládání aplikace z klávesnice napr. ukončení
