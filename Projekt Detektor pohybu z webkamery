@@ -5,5 +5,5 @@ Chtěl bych udelat jednoduchu aplikaci, která bude pomocí webkamery sledovat o
 Cíle projektu:
 - Získávání obrazu z webkamery pomocí knihovny OpenCV.  
 - Detekce pohybu porovnáváním aktuálního snímku s pozadím.
--  Možnost ukládání snímků při detekci pohybu do nejake složky  
+- Možnost ukládání snímků při detekci pohybu do nejake složky  
 - Ovládání aplikace z klávesnice napr. ukončení
