@@ -1,4 +1,4 @@
-Nátev
+Název
 -  Detektor pohybu z webkamery
 
 Chtěl bych udelat jednoduchu aplikaci, která bude pomocí webkamery sledovat obraz a pozná, ked se neco pohne. Když kamera zachytí pohyb, program to zobrazí a může uložit snímek do složky. Dá se to použít jako taková mini bezpečnostní kamera.
