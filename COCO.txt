@@ -1,0 +1,90 @@
+COCO DATASET – ID TŘÍD (YOLO)
+
+0  = clovek
+1  = kolo
+2  = auto
+3  = motorka
+4  = letadlo
+5  = autobus
+6  = vlak
+7  = kamion
+8  = lod
+9  = semafor
+10 = hydrant
+11 = stop_znacka
+12 = parkovaci_automat
+13 = lavicka
+14 = ptak
+15 = kocka
+16 = pes
+17 = kun
+18 = ovce
+19 = krava
+20 = slon
+21 = medved
+22 = zebra
+23 = zirafa
+
+COCO DATASET – DOMÁCÍ PŘEDMĚTY (YOLO)
+
+24 = batoh
+25 = destnik
+26 = kabelka
+27 = kravata
+28 = kufr
+
+29 = frisbee
+30 = lyze
+31 = snowboard
+32 = mic
+33 = drak
+34 = baseballova_palka
+35 = baseballovy_mic
+36 = skateboard
+37 = surf
+38 = tenisova_raketa
+
+39 = lahev
+40 = sklenice
+41 = hrnek
+42 = vidlicka
+43 = nuz
+44 = lzice
+45 = misa
+
+46 = banan
+47 = jablko
+48 = sendvic
+49 = pomeranc
+50 = brokolice
+51 = mrkev
+52 = hot_dog
+53 = pizza
+54 = donut
+55 = dort
+
+56 = zidla
+57 = gauc
+58 = kvetina
+59 = postel
+60 = jidelni_stul
+
+61 = zachod
+62 = televize
+63 = notebook
+64 = mys
+65 = dalkovy_ovladac
+66 = klavesnice
+67 = mobil
+68 = mikrovlnka
+69 = trouba
+70 = toaster
+71 = drezy
+72 = lednice
+73 = kniha
+74 = hodiny
+75 = vaza
+76 = nuzky
+77 = plyšovy_medved
+78 = fen
+79 = zubni_kartacek
